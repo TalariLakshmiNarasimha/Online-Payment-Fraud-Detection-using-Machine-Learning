@@ -89,6 +89,4 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 
 This project is licensed under the MIT License.
 
-## Contact
 
-For questions or collaboration, contact [Your Name](mailto:your.email@example.com) or open an issue in this repository.
