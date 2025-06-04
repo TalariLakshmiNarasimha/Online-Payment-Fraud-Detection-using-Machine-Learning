@@ -69,9 +69,7 @@ The dataset contains the following features:
 ```
 Online-Payment-Fraud-Detection-using-Machine-Learning/
 ├── data/                # Dataset files
-├── notebooks/           # Jupyter notebooks for EDA and modeling
-├── src/                 # Source code: data processing, model scripts
-├── main.py              # Main execution script
+├── notebooks/           # Jupyter notebooks 
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Project documentation
 ```
